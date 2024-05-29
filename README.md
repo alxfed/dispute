@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Dispute
+Dispute
 <pre>
-  pip install independent-machine
+  pip install dispute
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import dispute
 ```
